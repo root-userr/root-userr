@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhu</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kommumadhu&label=Profile%20views&color=0e75b6&style=flat" alt="kommumadhu" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kommumadhu&label=Profile%20views&color=0e75b6&style=flat" alt="kommumadhu" /> </p> -->
 
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-max-1mb.gif">
 
