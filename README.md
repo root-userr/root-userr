@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhu </h1>
+ <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/e7/66/88e7663123544c7d7bbba95d0ab10a76.gif">                                                 
 
 
 
