@@ -19,7 +19,7 @@
 
 📫 **How to reach me**  - kommumadhu4998@gmail.com
 
-📄 **My resume** https://drive.google.com/file/d/1DiS8-bHYW4xaV1coBjqhIiYL8gm9rFKc/view?usp=sharing
+📄 **My resume**  https://drive.google.com/file/d/1qpjaGUw4JP-mxX_e8pSZ8ztaCxoWXIT1/view?usp=share_link
 
 🏠**I'm currently staying** - Hyderabad
 
