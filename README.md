@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhu </h1>
- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/e7/66/88e7663123544c7d7bbba95d0ab10a76.gif">                                                 
+<img align="right" alt="Coding" width=" 500" src="https://i.pinimg.com/originals/88/e7/66/88e7663123544c7d7bbba95d0ab10a76.gif">                                                 
 
 
 
@@ -9,9 +9,9 @@
 
    **Forntend**  - HTML , CSS very basic level
    
-💬**Ask me about** - 🐍Python django mySQL , Data Abstraction ,Oops , numpy ,Pandas, Matplotlib, OpenCV, and Beautiful Soup
+💬**Ask me about** - 🐍Python django mySQL,Data Abstraction,Oops,powerBi numpy ,Pandas, Matplotlib,OpenCV & Beautiful Soup
 
-🧰**Tools**  - Anaconda , vs code , jupiter notebook
+🧰**Tools**  - Anaconda ,vs code ,jupiter notebook
 
 💻**Operating system** - Windows 11
 
@@ -36,7 +36,7 @@
 <h3 align="left">BACKEND LANGUAGE &TOOLS🎯</h3>
 
 
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/django-logo-vector.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG11.png" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://www.cilans.net/wp-content/uploads/2019/12/Python-Pandas-logo.png" alt="pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1199/1*tb3j9HHxxpCuXUh4MR1gAg.png" alt="numpy" width="40" height="40"/> </a> <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png" alt="canva" width="40" height="40"/> 
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/django-logo-vector.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG11.png" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://www.cilans.net/wp-content/uploads/2019/12/Python-Pandas-logo.png" alt="pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1199/1*tb3j9HHxxpCuXUh4MR1gAg.png" alt="numpy" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="canva" width="60" height="40"/> </a> <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png" alt="canva" width="40" height="40"/> 
  
  
  <h3 align="left">FRONTEND🎯</h3>
