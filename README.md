@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhu </h1>
-<img align="right" alt="Coding" width=" 500" src="https://i.pinimg.com/originals/88/e7/66/88e7663123544c7d7bbba95d0ab10a76.gif">                                                 
+<img align="right" alt="Coding" width=" 250" src="https://media3.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif?cid=790b7611cbe8eb713a762536f99cf0f451bf25d3b3c2b176&rid=giphy.gif&ct=g">                                                 
 
 
 
