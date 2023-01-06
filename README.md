@@ -1,5 +1,8 @@
+![Materhead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif)
+
+
 <h1 align="center">Hi 👋, I'm Madhu </h1>
-<img align="right" alt="Coding" width=" 250" src="https://media3.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif?cid=790b7611cbe8eb713a762536f99cf0f451bf25d3b3c2b176&rid=giphy.gif&ct=g">                                                 
+<img align="right" alt="Coding" width=" 250" src="https://user-images.githubusercontent.com/74930957/172275186-5641b509-4a50-451a-912f-827141fa82c2.gif">                                                 
 
 
 
