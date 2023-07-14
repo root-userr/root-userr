@@ -43,11 +43,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kommumadhu&show_icons=true&locale=en&layout=compact" alt="kommumadhu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=root-userr&show_icons=true&locale=en&layout=compact" alt="root-userr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kommumadhu&show_icons=true&locale=en" alt="kommumadhu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=root-user&show_icons=true&locale=en" alt="root-user" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kommumadhu&" alt="kommumadhu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=root-user&" alt="root-user" /></p>
 
 
 
